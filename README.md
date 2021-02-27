@@ -9,7 +9,8 @@ I find adding your passwords through terminal hard because it doesnt display to 
 
 i will write down my favorite song lyric in my next commit
 
-"But this day will be over
-When the minute and second hands overlap
-The world holds its breath for a little while
+"But this day will be over,
+When the minute and second hands overlap,
+The world holds its breath for a little while,
 Zero O'Clock, and you're gonna be happy"
+ "-Zero O'Clock By BTS"
